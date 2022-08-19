@@ -21,25 +21,36 @@ hogar?
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
 
-      nnumérico (float)
+      numérico (float)
       
 ## EJERCICIO 2
 
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
-      TU ALGORITMO AQUI
-      
+      inicio
+      mat = string(input("ingresa el nombre de la materia"))
+      mat1= float(input("ingresa la calificación del periodo 1")
+      mat2= float(input("ingresa la calificación del periodo 2")
+      mat3= float(input("ingresa la calificación del periodo 3")
+      mat4= float(input("ingresa la calificación del periodo 4")
+      promedio(float)
+      promedio = (mat1+mat2+mat3+mat4)/4
+      print ("el promedio de ",mat,"es igual a ",promedio)
+      fin
       
 ## EJERCICIO 3
 
 Realiza un algoritmo para un programa que solicite al usuario su nombre y le salude usando ese nombre
 
-      TU ALGORITMO AQUI  
+      inicio
+      nombre = string(input("ingrese su nombre"))
+      print ("¡Buenos días, ",nombre,"!")
+      fin
 
 ## EJERCICIO 3
 
 Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
-      TU ALGORITMO AQUI  
+      
 
 Ahora llevalos a PSINT
