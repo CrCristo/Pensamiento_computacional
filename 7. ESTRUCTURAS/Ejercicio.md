@@ -39,6 +39,7 @@
       
       Diagrama de flujo
       ![image](https://user-images.githubusercontent.com/111446231/186464023-4c56f497-78af-4085-9c7b-53bf13d7d090.png)
+![image](https://user-images.githubusercontent.com/111446231/186466778-d0c5e1d8-3e83-4af6-ab6a-31140bad3317.png)
 
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
