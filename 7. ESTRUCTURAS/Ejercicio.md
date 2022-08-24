@@ -18,6 +18,7 @@
       ![download](https://user-images.githubusercontent.com/111446231/186459117-2e181320-b54b-47b2-bc57-ad85bb56c966.png)
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
+![image](https://user-images.githubusercontent.com/111446231/186460022-23381940-302d-4ac4-900e-1e5fe0239560.png)
 
       Inicio
         Declarar cal_1,cal_2,cal_3,cal_4,prom(float)
@@ -55,4 +56,4 @@
       Fin
       
       Diagrama de flujo: ver al final de la página (num3,der)    
-![download](https://user-images.githubusercontent.com/111446231/186459117-2e181320-b54b-47b2-bc57-ad85bb56c966.png)
+
