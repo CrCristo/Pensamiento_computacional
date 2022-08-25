@@ -54,5 +54,18 @@
           Mostrar num," es impar"
       Fin
       
-      Diagrama de flujo: ver al final de la página (num3,der)    
+      Diagrama de flujo:
+      ![image](https://user-images.githubusercontent.com/111446231/186692687-d68bd01a-5cb7-453c-a79d-a0ca0c975d46.png)
 
+
+problema pedir la estatura de una persona para decir que altura tiene (baja, alto, media)
+inicio
+  declarar estatura(float)
+  mostrar "Ingresa tu estatura en metros" en rango (0.0,2.5)
+  asignar estatura
+  Si estatura<1.50:
+    mostrar "Eres de estatura baja"
+  elif 1.50<=estatura<1.70:
+    mostrar "Eres de estatura media"
+  else:
+    mostrar "Eres de estatura alta"
