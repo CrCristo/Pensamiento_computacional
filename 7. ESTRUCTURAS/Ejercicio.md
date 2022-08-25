@@ -87,4 +87,5 @@ problema pedir la estatura de una persona para decir que altura tiene (baja, alt
     Else
       Mostrar "Formato inválido"
     fin
-    ![image](https://user-images.githubusercontent.com/111446231/186698997-534b22e2-8e71-47f1-a1f3-f0aa8e65a705.png)
+
+![image](https://user-images.githubusercontent.com/111446231/186699371-e520d5a2-d9f6-4334-bf7b-253d4f4a0d1f.png)
