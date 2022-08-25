@@ -1,6 +1,6 @@
 1. Realiza un algoritmo y diagrama de flujo de un programa que compare dos números e indique cual es mayor.
   
-      Inicio
+       Inicio
         Declarar num_1,numn_2(int)
         Mostrar "Ingrese el primer número" 
         Asignar num_1(int)
@@ -12,15 +12,15 @@
           Mostrar "El segundo número es el mayor"
         Else:
           Mostrar "Ambos números son equivalentes"
-      Fin
+        Fin
       
-      Diagrama de flujo: 
-![image](https://user-images.githubusercontent.com/111446231/186460151-aa71c4bf-ae2a-4eac-8bf6-a7d844352937.png)
+        Diagrama de flujo: 
+        ![image](https://user-images.githubusercontent.com/111446231/186460151-aa71c4bf-ae2a-4eac-8bf6-a7d844352937.png)
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
 
-      Inicio
+       Inicio
         Declarar cal_1,cal_2,cal_3,cal_4,prom(float)
         Mostrar "Ingrese la primer calificación" 
         Asignar cal_1(float)
@@ -35,7 +35,7 @@
           Mostrar "¡Felicidades! Aprobaste con un promedio de ",prom
         Else:
           Mostrar "Reprobaste. Tu promedio es de ",prom
-      Fin
+       Fin
       
       Diagrama de flujo
       ![image](https://user-images.githubusercontent.com/111446231/186464023-4c56f497-78af-4085-9c7b-53bf13d7d090.png)
@@ -44,7 +44,7 @@
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
-      Inicio
+       Inicio
         Declarar num(int)
         Mostrar "Ingrese el número" 
         Asignar num(int)       
@@ -52,35 +52,39 @@
           Mostrar num," es par"
         Else:
           Mostrar num," es impar"
-      Fin
+       Fin
       
-      Diagrama de flujo:
-      ![image](https://user-images.githubusercontent.com/111446231/186692687-d68bd01a-5cb7-453c-a79d-a0ca0c975d46.png)
+        Diagrama de flujo:
+        ![image](https://user-images.githubusercontent.com/111446231/186692687-d68bd01a-5cb7-453c-a79d-a0ca0c975d46.png)
  
 
 problema pedir la estatura de una persona para decir que altura tiene (baja, alto, media)
-inicio
-  declarar estatura(float)
-  mostrar "Ingresa tu estatura en metros" en rango (0.0,2.5)
-  asignar estatura
-  Si estatura<1.50:
-    mostrar "Eres de estatura baja"
-  elif 1.50<=estatura<1.70:
-    mostrar "Eres de estatura media"
-  else:
-    mostrar "Eres de estatura alta"
-fin
 
-inicio
-  declarar estatura(float)
-  mostrar "Ingresa tu estatura en metros"
-  asignar estatura
-  
-    Si estatura<1.50:
-      mostrar "Eres de estatura baja"
-   elif 1.50<=estatura<1.70:
-     mostrar "Eres de estatura media"
-   else:
-      mostrar "Eres de estatura alta"
-   
-fin
+    inicio
+    declarar estatura(float)
+    mostrar "Ingresa tu estatura en metros" en rango (0.0,2.5)
+    asignar estatura
+     Si estatura<1.50:
+       mostrar "Eres de estatura baja"
+    elif 1.50<=estatura<1.70:
+        mostrar "Eres de estatura media"
+     else:
+       mostrar "Eres de estatura alta"
+     fin
+
+
+    inicio
+     declarar estatura(float)
+     mostrar "Ingresa tu estatura en metros"
+      asignar estatura
+    Si 0.0<estatura<2.50:
+       Si estatura<1.50:
+        mostrar "Eres de estatura baja"
+      elif 1.50<=estatura<1.70:
+         mostrar "Eres de estatura media"
+      else:
+         mostrar "Eres de estatura alta"
+    Else
+      Mostrar "Formato inválido"
+    fin
+    ![image](https://user-images.githubusercontent.com/111446231/186698997-534b22e2-8e71-47f1-a1f3-f0aa8e65a705.png)
