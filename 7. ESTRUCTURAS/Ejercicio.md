@@ -89,3 +89,5 @@ problema pedir la estatura de una persona para decir que altura tiene (baja, alt
     fin
 
 ![image](https://user-images.githubusercontent.com/111446231/186699371-e520d5a2-d9f6-4334-bf7b-253d4f4a0d1f.png)
+![image](https://user-images.githubusercontent.com/111446231/186701524-aa3c8e7b-ca6e-4299-8d0d-ba645eb54965.png)
+
