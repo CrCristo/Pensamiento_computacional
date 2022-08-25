@@ -45,17 +45,13 @@
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
       Inicio
-        Declarar num_1,numn_2(int)
-        Mostrar "Ingrese el primer número" 
-        Asignar num_1(int)
-        Mostrar "Ingrese el primer número" 
-        Asignar num_2(int)        
-        Si num_1>num_2:
-          Mostrar "El primer número es el mayor"
-        Elif num_1<num_2:
-          Mostrar "El segundo número es el mayor"
+        Declarar num(int)
+        Mostrar "Ingrese el número" 
+        Asignar num(int)       
+        Si num%mod==0:        o    Si (num/2)=int
+          Mostrar num," es par"
         Else:
-          Mostrar "Ambos números son equivalentes"
+          Mostrar num," es impar"
       Fin
       
       Diagrama de flujo: ver al final de la página (num3,der)    
