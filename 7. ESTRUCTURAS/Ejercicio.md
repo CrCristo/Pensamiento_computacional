@@ -89,5 +89,41 @@ problema pedir la estatura de una persona para decir que altura tiene (baja, alt
     fin
 
 ![image](https://user-images.githubusercontent.com/111446231/186699371-e520d5a2-d9f6-4334-bf7b-253d4f4a0d1f.png)
-![image](https://user-images.githubusercontent.com/111446231/186701524-aa3c8e7b-ca6e-4299-8d0d-ba645eb54965.png)
+![image](https://user-images.githubusercontent.com/111446231/186706623-e2f86723-bde2-464f-ab81-16281d217967.png)
+
+Problema: pedir tres números y ordenarlos en orden ascendente
+
+    inicio
+    declarar num_1,num_2,num_3(float)
+    mostrar "Ingrese el primer número"
+    asignar num_1
+    mostrar "Ingrese el segundo número"
+    asignar num_2
+    mostrar "Ingrese el tercer número"
+    asignar num_3
+    
+     Si num_1<=num_2 and num_1<=num_3
+        Si num_2<=num_3
+          mostrar num_1,num_2,num_3
+        Else
+         mostrar num_1,num_3,num_2      
+     Elif num_2<=num_1 and num_2<=num_3
+       Si num_1<=num_3
+         mostrar num_2,num_1,num_3
+       Else
+         mostrar num_2,num_3,num_1
+     Else:
+       Si num_1<=num_2
+          mostrar num_3,num_1,num_2
+        Else
+         mostrar num_3,num_2,num_1
+     fin
+    
+    num
+    inicio
+    declarar num(lista), cantidad de num (int)
+    for i in range (0 a cantidad de num)
+      mostrar "Ingrese el primer número"
+      agregar a num(lista)
+ 
 
