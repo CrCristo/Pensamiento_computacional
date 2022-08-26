@@ -121,5 +121,6 @@ Problema: pedir tres números y ordenarlos en orden ascendente
     
    ![image](https://user-images.githubusercontent.com/111446231/186805333-076f373f-d24e-41e6-8627-293e2f406ae7.png)
 
-    
+   ![image](https://user-images.githubusercontent.com/111446231/186810176-97947d0b-2d9a-4827-a2f6-9baf2592d0bd.png)
+
 
