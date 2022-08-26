@@ -119,7 +119,7 @@ Problema: pedir tres números y ordenarlos en orden ascendente
          mostrar num_3,num_2,num_1
      fin
     
-    ![image](https://user-images.githubusercontent.com/111446231/186805333-076f373f-d24e-41e6-8627-293e2f406ae7.png)
+   ![image](https://user-images.githubusercontent.com/111446231/186805333-076f373f-d24e-41e6-8627-293e2f406ae7.png)
 
     
 
