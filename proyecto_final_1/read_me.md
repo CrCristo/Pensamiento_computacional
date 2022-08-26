@@ -1,6 +1,8 @@
 # Algoritmo: Proyecto final 1
 ## Algoritmo Número Secreto
 
+![image](https://user-images.githubusercontent.com/111446231/186941842-42825c6c-7ec7-4c91-872d-f816306860ec.png)
+
     Inicio
       Declarar num_mist, num_player, vidas
       Asignar num_mist.random (0,10)
