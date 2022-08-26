@@ -123,4 +123,24 @@ Problema: pedir tres números y ordenarlos en orden ascendente
 
    ![image](https://user-images.githubusercontent.com/111446231/186810176-97947d0b-2d9a-4827-a2f6-9baf2592d0bd.png)
 
+### Switch
+**Problema**: Ingresar una letra e indicar si es una vocal
 
+      Inicio
+        Declarar letra(char)
+        Mostrar "Ingresa una letra"
+        Asignar vocal
+        En caso de (vocal) haga 
+          Caso1 "a" or "A" 
+            Mostrar letra, " es una vocal"
+          Caso2 "e" or "E" 
+            Mostrar letra, " es una vocal"
+          Caso3 "i" or "I" 
+            Mostrar letra, " es una vocal"
+          Caso4 "o" or "O" 
+            Mostrar letra, " es una vocal"
+          Caso5 "u" or "U" 
+            Mostrar letra, " es una vocal"
+        Sino
+          Mostrar letra," no es una vocal"
+      Fin
