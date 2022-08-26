@@ -144,3 +144,5 @@ Problema: pedir tres números y ordenarlos en orden ascendente
         Sino
           Mostrar letra," no es una vocal"
       Fin
+
+![image](https://user-images.githubusercontent.com/111446231/186945572-6cb82040-ad2e-4359-b654-10bef7008d6c.png)
