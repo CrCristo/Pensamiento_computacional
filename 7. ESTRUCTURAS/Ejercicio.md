@@ -182,3 +182,6 @@ Problema: pedir tres números y ordenarlos en orden ascendente
       numero=numero+1
       contador = 1
     Fin
+
+![image](https://user-images.githubusercontent.com/111446231/187484710-2c0d8273-e5a2-4531-8218-a5e54c616c89.png)
+
