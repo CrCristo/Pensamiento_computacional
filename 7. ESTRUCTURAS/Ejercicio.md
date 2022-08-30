@@ -149,3 +149,20 @@ Problema: pedir tres números y ordenarlos en orden ascendente
 
 ![image](https://user-images.githubusercontent.com/111446231/187462012-2b8b7660-23aa-4f75-9df9-364b224e9745.png)
 
+
+**Problema**: Ingresar un número y mostrarle la tabla de multiplicar del número hasta el diez
+  
+    Inicio:
+    Declarar número,contador,resultado
+    Asignar contador = 1
+    Asignar resultado = 0
+    Mostrar "Ingrese el número que quiere multiplicar: "
+    Asignar número
+    Para contador<=10 hacer:
+      resultado = número*contador
+      Mostrar numero," x ",contador," = ", resultado
+      contador = contador +1
+    Fin
+    
+  ![image](https://user-images.githubusercontent.com/111446231/187474769-c8f6ec3d-99fc-4aaf-a36a-463ecab30b28.png)
+  
