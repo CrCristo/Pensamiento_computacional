@@ -164,5 +164,6 @@ Problema: pedir tres números y ordenarlos en orden ascendente
       contador = contador +1
     Fin
     
-  ![image](https://user-images.githubusercontent.com/111446231/187474769-c8f6ec3d-99fc-4aaf-a36a-463ecab30b28.png)
+![image](https://user-images.githubusercontent.com/111446231/187475541-d7809793-4d3c-4f01-99fb-778995013567.png)
+![image](https://user-images.githubusercontent.com/111446231/187475614-fb9f2efe-0be0-41b6-b0f6-bc07d063027b.png)
   
