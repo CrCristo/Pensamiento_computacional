@@ -185,3 +185,4 @@ Problema: pedir tres números y ordenarlos en orden ascendente
 
 ![image](https://user-images.githubusercontent.com/111446231/187484710-2c0d8273-e5a2-4531-8218-a5e54c616c89.png)
 
+![image](https://user-images.githubusercontent.com/111446231/187485784-f34f19fa-c91a-47ec-8368-7153a74d1fb0.png)
