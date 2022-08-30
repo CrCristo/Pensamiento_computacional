@@ -167,3 +167,18 @@ Problema: pedir tres números y ordenarlos en orden ascendente
 ![image](https://user-images.githubusercontent.com/111446231/187475541-d7809793-4d3c-4f01-99fb-778995013567.png)
 ![image](https://user-images.githubusercontent.com/111446231/187475614-fb9f2efe-0be0-41b6-b0f6-bc07d063027b.png)
   
+**Problema**: programa qiue imprima todas las tablas de multiplicar del 1 al 10
+
+    Inicio:
+    Declarar número,contador,resultado
+    Asignar contador = 1
+    Asignar resultado = 0
+    Asignar número = 1
+    Para numero<=10 hacer:
+      Para contador<=10 hacer:
+        resultado = número*contador
+        Mostrar numero," x ",contador," = ", resultado
+        contador = contador +1
+      numero=numero+1
+      contador = 1
+    Fin
