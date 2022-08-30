@@ -146,3 +146,6 @@ Problema: pedir tres números y ordenarlos en orden ascendente
       Fin
 
 ![image](https://user-images.githubusercontent.com/111446231/186945572-6cb82040-ad2e-4359-b654-10bef7008d6c.png)
+
+![image](https://user-images.githubusercontent.com/111446231/187462012-2b8b7660-23aa-4f75-9df9-364b224e9745.png)
+
