@@ -187,5 +187,30 @@ Problema: pedir tres números y ordenarlos en orden ascendente
 
 ![image](https://user-images.githubusercontent.com/111446231/187485784-f34f19fa-c91a-47ec-8368-7153a74d1fb0.png)
 
+Programa que te pida tu nombre y te pida cuantas  veces qiuiere que imprima tu nombre 
 
-    
+     inicio
+        declarar nombre,número,contador
+        asignar contador=1
+        mostrar "ingresa tu nombre"
+        asignar nombre (string)
+        mostrar "¿Cuantas veces quiere que se muestre su nombre?"
+        asignar número
+        Para numero = contador:
+          contador = contador + 1
+          mostrar nombre
+     fin
+     
+![image](https://user-images.githubusercontent.com/111446231/187722259-ec8aea20-0962-46a4-b3b5-5cd3908aa634.png)
+
+    inicio
+    declarar nombre,número
+    mostrar "ingresa tu nombre"
+    asignar nombre (string)
+    mostrar "¿Cuantas veces quiere que se muestre su nombre?"
+    asignar número
+    for i in range (número):
+      mostrar nombre
+    fin
+
+![image](https://user-images.githubusercontent.com/111446231/187721182-56cdea9a-dc0d-4ed1-8790-b41ab77e839a.png)
