@@ -214,3 +214,6 @@ Programa que te pida tu nombre y te pida cuantas  veces qiuiere que imprima tu n
     fin
 
 ![image](https://user-images.githubusercontent.com/111446231/187721182-56cdea9a-dc0d-4ed1-8790-b41ab77e839a.png)
+
+![image](https://user-images.githubusercontent.com/111446231/187723371-ebfb79be-a77d-4cb6-b5af-9d504dcf4acf.png)
+
