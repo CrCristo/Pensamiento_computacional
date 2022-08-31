@@ -167,7 +167,7 @@ Problema: pedir tres números y ordenarlos en orden ascendente
 ![image](https://user-images.githubusercontent.com/111446231/187475541-d7809793-4d3c-4f01-99fb-778995013567.png)
 ![image](https://user-images.githubusercontent.com/111446231/187475614-fb9f2efe-0be0-41b6-b0f6-bc07d063027b.png)
   
-**Problema**: programa qiue imprima todas las tablas de multiplicar del 1 al 10
+**Problema**: programa que imprima todas las tablas de multiplicar del 1 al 10
 
     Inicio:
     Declarar número,contador,resultado
@@ -186,3 +186,6 @@ Problema: pedir tres números y ordenarlos en orden ascendente
 ![image](https://user-images.githubusercontent.com/111446231/187484710-2c0d8273-e5a2-4531-8218-a5e54c616c89.png)
 
 ![image](https://user-images.githubusercontent.com/111446231/187485784-f34f19fa-c91a-47ec-8368-7153a74d1fb0.png)
+
+
+    
