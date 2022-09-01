@@ -45,6 +45,8 @@ Realizar una calculadora que pregunte por la operacion que quiere hacer y pregun
 
 Debe tenr while y switch
 
-
+    Inicio
+    Declarar Operacio, resultado
+    
 
 ### Función Fecha
