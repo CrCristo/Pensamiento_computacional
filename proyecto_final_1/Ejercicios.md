@@ -43,6 +43,8 @@ Realizar programa que pida la fecha de nacimiento y calcule su edad para al fina
 
 Realizar una calculadora que pregunte por la operacion que quiere hacer y pregunte si quiere hacer otra
 
+Debe tenr while y switch
+
 
 
 ### Función Fecha
