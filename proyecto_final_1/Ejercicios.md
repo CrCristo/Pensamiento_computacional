@@ -88,8 +88,7 @@ Debe tenr while y switch
 ![image](https://user-images.githubusercontent.com/111446231/188182207-bc44f870-de06-4589-b93b-44e5a87b237f.png)
 
 ![image](https://user-images.githubusercontent.com/111446231/188191820-157b529d-961b-4332-a639-8048f93ef162.png)
-![image](https://user-images.githubusercontent.com/111446231/188191897-4cbd1ec4-2a06-4274-8dae-1d10cbf1577b.png)
-
+![image](https://user-images.githubusercontent.com/111446231/188192022-d9fb5e2b-6940-4248-a627-2339a8302f5d.png)
 
 Tarea
 Ahcerel número secreto
