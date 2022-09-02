@@ -46,7 +46,46 @@ Realizar una calculadora que pregunte por la operacion que quiere hacer y pregun
 Debe tenr while y switch
 
     Inicio
-    Declarar Operacio, resultado
+    Declarar Operacion, resultado
+    fin
     
+    Inicio
+    Declarar var_1, var_2 , resultado(float) ,repetir("") , operación(int)
+    Asignar var_1=0.0
+    Asignar var_2=0.0
+    Asignar resultado=0.0
+    Mostrar ("¿Cúal operación desea realizar?  1 : Suma 2: Resta 3 : Multiplicacion 4 : División 5 : Salir de la calculadora")
+    Asignar Operación
+    Mientras Operacion !=5 hacer
+        Mostrar ("Ingrese su primer número")
+        Asignar var_1
+        Mostrar ("Ingrese su segundo número")
+        Asignar var_2
+        En caso de (Operación) haga:
+            Caso 1 "1"
+                Asignar Resultado = var_1+var_2
+                Mostrar (var_1,"+",var_2,"=",resultado
+            Caso 2 "2"
+                Asignar Resultado = var_1-var_2
+                Mostrar (var_1,"-",var_2,"=",resultado
+            Caso 3 "3"
+                Asignar Resultado = var_1*var_2
+                Mostrar (var_1,"x",var_2,"=",resultado
+            Caso 4 "4"
+                If var_2 != 0:
+                    Asignar Resultado = var_1/var_2
+                    Mostrar (var_1,"/",var_2, "=" ,resultado)
+                else:
+                    Mostrar "No se puede dividir entre 0"
+             Sino
+                Mostrar "Formato inválido"
+        Mostrar ("¿Cúal operación desea realizar?  1 : Suma 2: Resta 3 : Multiplicacion 4 : División 5 : Salir de la calculadora")
+        Asignar Operación
+     Mostrar ("¡Bye! Que tenga buen día."
+     Fin
+    
+    
+![image](https://user-images.githubusercontent.com/111446231/188182207-bc44f870-de06-4589-b93b-44e5a87b237f.png)
+
 
 ### Función Fecha
