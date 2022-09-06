@@ -31,7 +31,8 @@
           Asignar repetir
     Fin    
     
-    
+![image](https://user-images.githubusercontent.com/111446231/186937771-0e81fa93-ecef-40f1-8179-dc34c41c260b.png)
+
  ### v 1.2
     
     
@@ -63,7 +64,8 @@
           Mostrar "¿Quieres seguir jugando? y/n"
           Asignar repetir
     Fin    
-![image](https://user-images.githubusercontent.com/111446231/186937771-0e81fa93-ecef-40f1-8179-dc34c41c260b.png)
+    
+![image](https://user-images.githubusercontent.com/111446231/188671156-081c91d1-f9fc-4b4e-b3ce-324fbfe30179.png)
 
 
 ### v  1.1
