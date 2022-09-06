@@ -3,8 +3,10 @@
 
 ![image](https://user-images.githubusercontent.com/111446231/186941842-42825c6c-7ec7-4c91-872d-f816306860ec.png)
 
+### v  1.1
+
     Inicio
-      Declarar num_mist, num_player, vidas, repetir
+      Declarar num_mist, num_player, vidas(int), repetir(char)
       Asignar num_mist.random (0,10)
       Asignar vidas = 5
       Asignar repetir = "y"
@@ -29,8 +31,42 @@
           Asignar repetir
     Fin    
     
+    
+ ###v 1.2
+    
+    
+    Inicio
+      Declarar num_mist, num_player, vidas(int), repetir(char)
+      Asignar num_mist.random (0,10)
+      Asignar vidas = 5
+      Asignar repetir = "y"
+      Mostrar "Bienvenido al - Número Secreto -"
+      Mostrar "Objetivo: Adivinar el número entre 1 y 10"
+      Mientras repetir =="y" o repetir == "Y"
+          Mientras vidas=/=0 o num_mist=/=num_player:
+             Mostrar "Ingresa tu número"
+             Asignar num_player
+             If num_player<num_mist:
+                Mostrar "El número es más grande"
+             Elif  10<num_player<0:
+                Mostrar  "Formato inválido. Intenta otra vez"
+                vidas = vidas+1
+             Else:
+                Mostrar "El número es más pequeño"
+             vidas = vidas-1
+             Mostrar (vidas, " vidas restantes")
+          If num_mist==num_player
+            Mostrar "¡Felicidades! Encontraste el - Número Secreto -"
+          Elif vidas==0
+            Mostrar "Perdiste."
+          Mostrar "El número secreto es ",num_mist
+          Mostrar "¿Quieres seguir jugando? y/n"
+          Asignar repetir
+    Fin    
 ![image](https://user-images.githubusercontent.com/111446231/186937771-0e81fa93-ecef-40f1-8179-dc34c41c260b.png)
 
+
+### v  1.1
 
       import random
       num_sec= random.randint(0,10)
