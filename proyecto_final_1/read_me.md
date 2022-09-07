@@ -95,3 +95,41 @@
             print ("Formato inválido")
           print ("El número secreto es ",num_sec)
           repetir = str(input("¿Quieres seguir jugando? y/n?"))
+          
+       
+       
+### v 1.2
+
+    import random
+    repetir="y"
+    print ("             Bienvenido al\n        === Nùmero Secreto ===\nObjetivo: Adivinar el nùmero entre 0 y 100")
+    while repetir == "y" or repetir =="Y":
+      vidas=5
+      lista = []
+      num_sec= random.randint(0,100)
+      num_ply= int(input("\nIngresa tu número: "))
+      while vidas!=0 and num_ply!=num_sec:
+        if num_ply in lista:
+          print ("\nYa ingresaste ese número. Intenta de nuevo.")
+          vidas = vidas+1
+        else:
+          if 100<num_ply or num_ply<0:
+            print ("\nFormato inválido. Intenta de nuevo")
+            vidas = vidas+1
+          elif num_ply<num_sec:
+            print ("\nEl Nùmero Secreto es más grande")
+          elif num_ply==num_sec:
+            break
+          else:
+            print ("\nEl Nùmero Secreto es más pequeño")
+        vidas = vidas-1
+        print (vidas, " vidas restantes")
+        lista.append(num_ply)
+        num_ply= int(input("Ingresa tu número: "))  
+      if num_sec==num_ply:
+        print ("\n¡Felicidades! Encontraste el - Número Secreto -")
+      else:
+        print ( "\nPerdiste.")
+      print ("El número secreto es ",num_sec)
+      repetir = str(input("\n¿Quieres seguir jugando? y/n?"))
+    print ("\n¡Gracias por jugar!\n Hasta la próxima.")
